@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/javascript.github.io/typr",
+  "source": "@site/src/pages/typr.md",
+  "title": "TypR",
+  "description": "- Hello world",
+  "frontMatter": {},
+  "unlisted": false
+}

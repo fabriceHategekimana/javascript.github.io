@@ -1,0 +1,24 @@
+{
+  "id": "projects/12",
+  "title": "Projet 12: Application de Chat avec Salons (150 points)",
+  "description": "Description du projet :",
+  "source": "@site/docs/projects/12.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/12",
+  "permalink": "/javascript.github.io/docs/projects/12",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/projects/12.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projet 11: Application de Gestion de Projets (Trello-like) (180 points)",
+    "permalink": "/javascript.github.io/docs/projects/11"
+  },
+  "next": {
+    "title": "Projet 13: Site E-commerce Complet (240 points)",
+    "permalink": "/javascript.github.io/docs/projects/13"
+  }
+}

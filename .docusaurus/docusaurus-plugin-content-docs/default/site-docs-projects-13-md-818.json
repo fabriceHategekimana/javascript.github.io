@@ -1,0 +1,24 @@
+{
+  "id": "projects/13",
+  "title": "Projet 13: Site E-commerce Complet (240 points)",
+  "description": "Description du projet :",
+  "source": "@site/docs/projects/13.md",
+  "sourceDirName": "projects",
+  "slug": "/projects/13",
+  "permalink": "/javascript.github.io/docs/projects/13",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/projects/13.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projet 12: Application de Chat avec Salons (150 points)",
+    "permalink": "/javascript.github.io/docs/projects/12"
+  },
+  "next": {
+    "title": "Modalités du cours:",
+    "permalink": "/javascript.github.io/docs/projects/intro"
+  }
+}
